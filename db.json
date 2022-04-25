@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "name": "Ashvini Sharma",
+      "username": "abhi",
+      "email": "ashvinisharma1999@gmail.com",
+      "phone": "07985654746",
+      "website": "facebook.com",
+      "id": 1
+    },
+    {
+      "name": "Abhishek",
+      "username": "abhi",
+      "email": "abhishek1999@gmail.com",
+      "phone": "7985654746",
+      "website": "https//:www.google.com",
+      "id": 2
+    },
+    {
+      "name": "Ashvini Sharma",
+      "username": "ashu",
+      "email": "ashvinisharma1999@gmail.com",
+      "phone": "07985654746",
+      "website": "www.sarkariwebsite.com",
+      "id": 3
+    },
+    {
+      "name": "Baljeet ",
+      "username": "balu",
+      "email": "ashvinisharma1999@gmail.com",
+      "phone": "07985654746",
+      "website": "https//:www.crmnext.com",
+      "id": 4
+    },
+    {
+      "name": "Ashvini Sharma",
+      "username": "a",
+      "email": "ashvinisharma1999@gmail.com",
+      "phone": "07985654746",
+      "website": "https//:www.meta.com",
+      "id": 5
+    }
+  ]
+}
